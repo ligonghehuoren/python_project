@@ -1,2 +1,1 @@
-print ("hello world");
-print("this is xiaopangzi")
+print("hello world")
